@@ -4,6 +4,9 @@
   "repository": "anonymoosechipmunk/frt",
   "description": "",
   "main": "index.js",
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
